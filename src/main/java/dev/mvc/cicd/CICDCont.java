@@ -32,5 +32,5 @@ public class CICDCont {
     }
     
     return "<h3>" + msg + "</h3>";
-  // } // <- 중괄호 빠지면 에러 발생
+  } // <- 중괄호 빠지면 에러 발생
 }
